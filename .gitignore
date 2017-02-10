@@ -5,3 +5,5 @@ debian/*.log
 debian/*.substvars
 debian/xscopes-qt/
 obj*
+
+build/
